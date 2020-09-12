@@ -1,5 +1,5 @@
 # Infinite-Horizon Optimal Control of Switched Boolean Control Networks with Average Cost:  An Efficient Graph-Theoretical Approach
-This repository contains the code for the paper: Shuhua Gao, Changkai Sun, Cheng Xiang, Kairong Qin, and Tong Heng Lee. *Infinite-Horizon Optimal Control of Switched Boolean Control Networks with Average Cost: An Efficient Graph-Theoretical Approach.* (To be published)
+This repository contains the code for the paper: Shuhua Gao, Changkai Sun, Cheng Xiang, Kairong Qin, and Tong Heng Lee. *Infinite-Horizon Optimal Control of Switched Boolean Control Networks with Average Cost: An Efficient Graph-Theoretical Approach.*
 
 
 
@@ -21,8 +21,17 @@ Python 3.6 or higher.
 
 **How to cite this work**
 
+Gao, Shuhua, Changkai Sun, Cheng Xiang, Kairong Qin, and Tong Heng Lee. "Infinite-horizon optimal control of switched boolean control networks with average cost: An efficient graph-theoretical approach." IEEE Transactions on Cybernetics (2020).
 
-
+```
+@article{gao2020infinite,
+  title={Infinite-horizon optimal control of switched boolean control networks with average cost: An efficient graph-theoretical approach},
+  author={Gao, Shuhua and Sun, Changkai and Xiang, Cheng and Qin, Kairong and Lee, Tong Heng},
+  journal={IEEE Transactions on Cybernetics},
+  year={2020},
+  publisher={IEEE}
+}
+```
   
 
 
